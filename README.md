@@ -1,2 +1,1 @@
-# task-app
-API
+# task-manager-api
